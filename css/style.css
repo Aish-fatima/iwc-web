@@ -6934,7 +6934,26 @@ body.normal .portfolio .container 	{
 .dark .dark-l {
   display: none;
 }
-
 .dark .white-l {
   display: block;
+}
+
+.orange-color-text {
+  margin-top: 10px;
+  font-size: 30px;
+  line-height: 30px;
+  font-weight: 500;
+}
+
+.orange-color {
+  color: #ffb400 !important;
+}
+
+.founder-text {
+  font-size: 48px;
+  line-height: 48px;
+  font-weight: 800;
+  margin: 15px 0;
+  text-transform: uppercase;
+  font-family: "Raleway", sans-serif;
 }
