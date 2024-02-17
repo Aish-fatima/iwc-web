@@ -1,4 +1,4 @@
 User-agent: *
-Disallow: https://aishfatimaiwc.in/index.html
-Disallow: https://aishfatimaiwc.in/.html
-Disallow: https://aishfatimaiwc.in/index-kenburns.html
+Disallow: /index.html
+Disallow: /.html
+Disallow: /index-kenburns.html
